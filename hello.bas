@@ -3,6 +3,6 @@ Option Explicit
 
 Sub hello()
 
-MsgBox "hello world!?"
-MsgBox "追加メッセージ"
+MsgBox "hello age"
+
 End Sub
